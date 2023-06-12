@@ -13,3 +13,6 @@
     ``.\bin\windows\kafka-console-producer.bat --topic topic-example --bootstrap-server localhost:9092``.
     8. И считываем события при помощи consumer ``.\bin\windows\kafka-console-consumer.bat --topic topic-example --from-beginning --bootstrap-server localhost:9092``.
     9. МЫ должны увидеть наши добавленные сообщения по порядку. Congratulations.
+
+
+![img.png](img.png)
